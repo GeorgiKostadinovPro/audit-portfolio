@@ -1,7 +1,7 @@
 ![image](https://github.com/user-attachments/assets/54ff1a9a-856e-40c5-bd8c-904b7052c12e)
 
 ## About me
-<p>👨‍💻 Smart Contract Security Researcher | Former Software Engineer</p>
+<p>👨‍💻 Smart Contract Security Researcher & Former Software Engineer</p>
 <p>🔍 Breaking, Securing, and Optimizing Web3 Protocols</p>
 <p>I specialize in smart contract security, leveraging my background as a former .NET & React.js developer to deeply understand both backend systems and blockchain applications. With a strong foundation in mathematics and currently pursuing a CS degree, I am committed to mastering the art of blockchain security auditing.</p>
 <p>🚀 Aiming to be one of the best auditors.</p>
@@ -20,7 +20,7 @@
       <th>Platform</th>
       <th>Project</th>
       <th>Type</th>
-      <th>Vulnerabilities</th>
+      <th>Findings</th>
       <th>Report</th>
       <th>Language</th>
       <th>Rank</th>
