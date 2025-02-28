@@ -8,7 +8,34 @@
 <p>🏆 Participating in Codehawks, Code4rena, Sherlock, and Cantina competitions to sharpen my skills and hunt for vulnerabilities.</p>
 <p>🔗 Always exploring new attack vectors, refining my methodologies, and staying ahead in the evolving Web3 landscape.</p>
 
-## Public Competition
+## Public Competitions
+
+<table>
+  <thead>
+    <tr>
+      <th>№</th>
+      <th>Date</th>
+      <th>Platform</th>
+      <th>Protocol</th>
+      <th>Type</th>
+      <th>Findings</th>
+      <th>Report</th>
+      <th>Rank</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>1</td>
+      <td>01/2025</td>
+      <td>Code4rena</td>
+      <td><a href="https://code4rena.com/audits/2025-01-liquid-ron">Liquid Ron</a></td>
+      <td>Ronin Staking</td>
+      <td>1M</td>
+      <td><a href="https://code4rena.com/audits/2025-01-liquid-ron">Public</a></td>
+      <td>-</td>
+    </tr>
+  </tbody>
+</table>
 
 ## Codehawks <a href="https://support.cyfrin.io/en/collections/10771996-first-flights">First Flights</a>
 
@@ -18,11 +45,10 @@
       <th>№</th>
       <th>Date</th>
       <th>Platform</th>
-      <th>Project</th>
+      <th>Protocol</th>
       <th>Type</th>
       <th>Findings</th>
       <th>Report</th>
-      <th>Language</th>
       <th>Rank</th>
     </tr>
   </thead>
@@ -33,10 +59,9 @@
       <td>Codehawks</td>
       <td><a href="https://codehawks.cyfrin.io/c/2025-02-datingdapp/">DatingDapp</a></td>
       <td>NFT, ERC20</td>
-      <td>-</td>
-      <td><a href="#">report</a></td>
-      <td>Solidity</td>
-      <td>-</td>
+      <td>1H, 2M</td>
+      <td><a href="https://codehawks.cyfrin.io/c/2025-02-datingdapp/results?lt=contest&page=1&sc=xp&sj=reward&t=report">Public</a></td>
+      <td>11th</td>
     </tr>
     <tr>
       <td>1</td>
@@ -45,9 +70,8 @@
       <td><a href="https://codehawks.cyfrin.io/c/2024-12-christmas-dinner">ChistmasDinner</a></td>
       <td>Crowdfund</td>
       <td>3H, 5M</td>
-      <td><a href="https://codehawks.cyfrin.io/c/2024-12-christmas-dinner/results/?lt=contest&page=1&sc=xp&sj=reward&t=report">report</a></td>
-      <td>Solidity</td>
-      <td>2nd</td>
+      <td><a href="https://codehawks.cyfrin.io/c/2024-12-christmas-dinner/results?lt=contest&page=1&sc=xp&sj=reward&t=report">Public</a></td>
+      <td>🥈</td>
     </tr>
   </tbody>
 </table>
