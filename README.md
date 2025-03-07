@@ -8,7 +8,7 @@
 <p>🏆 Participating in Codehawks, Code4rena, Sherlock, and Cantina competitions to sharpen my skills and hunt for vulnerabilities.</p>
 <p>🔗 Always exploring new attack vectors, refining my methodologies, and staying ahead in the evolving Web3 landscape.</p>
 
-## Public Competitions
+## Public Competitions <a href="https://audits.sherlock.xyz/watson/0xAlipede">Portfolio</a>
 
 <table>
   <thead>
@@ -24,6 +24,16 @@
     </tr>
   </thead>
   <tbody>
+    <tr>
+      <td>1</td>
+      <td>01/2025</td>
+      <td>Sherlock</td>
+      <td><a href="https://audits.sherlock.xyz/contests/498">Rova</a></td>
+      <td>Onchain launchpad, Token sales</td>
+      <td>1M</td>
+      <td><a href="https://audits.sherlock.xyz/contests/498/report">Public</a></td>
+      <td>🥉</td>
+    </tr>
     <tr>
       <td>1</td>
       <td>01/2025</td>
