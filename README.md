@@ -64,6 +64,16 @@
   </thead>
   <tbody>
     <tr>
+      <td>3</td>
+      <td>03/2025</td>
+      <td>Codehawks</td>
+      <td><a href="https://codehawks.cyfrin.io/c/2025-03-inheritable-smart-contract-wallet/">Inheritable Smart Contract Wallet</a></td>
+      <td>Wallet, ERC20, NFT, Time-based locks</td>
+      <td>6H, 1M, 1L</td>
+      <td><a href="https://codehawks.cyfrin.io/c/2025-03-inheritable-smart-contract-wallet/results?lt=contest&page=2&sc=highCount&sj=reward&t=report">Public</a></td>
+      <td>🥇</td>
+    </tr>
+    <tr>
       <td>2</td>
       <td>02/2025</td>
       <td>Codehawks</td>
