@@ -76,9 +76,9 @@
   </thead>
   <tbody>
     <tr>
-      <td>13</td>
+      <td>15</td>
       <td>11</td>
-      <td>2</td>
+      <td>3</td>
     </tr>
   </tbody>
 </table>
@@ -97,6 +97,16 @@
     </tr>
   </thead>
   <tbody>
+    <tr>
+      <td>5</td>
+      <td>08/2025</td>
+      <td>Codehawks</td>
+      <td><a href="https://codehawks.cyfrin.io/c/2025-07-secret-vault/">Secret Vault</a></td>
+      <td>Wallet, Move on Aptos</td>
+      <td>2H, 1L</td>
+      <td><a href="https://codehawks.cyfrin.io/c/2025-07-secret-vault/results?lt=contest&page=1&sc=xp&sj=reward&t=report">Public</a></td>
+      <td>8th</td>
+    </tr>
     <tr>
       <td>4</td>
       <td>08/2025</td>
