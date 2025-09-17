@@ -1,4 +1,3 @@
-![image](https://github.com/user-attachments/assets/54ff1a9a-856e-40c5-bd8c-904b7052c12e)
 
 ## About me
 <p>👨‍💻 Smart Contract Security Researcher & Experienced Software Engineer</p>
