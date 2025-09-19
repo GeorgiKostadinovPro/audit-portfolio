@@ -1,11 +1,6 @@
 
 ## About me
-<p>👨‍💻 Smart Contract Security Researcher & Experienced Software Engineer</p>
-<p>🔍 Breaking, Securing, and Optimizing Web3 Protocols</p>
-<p>I specialize in smart contract security, leveraging my background as a .NET & React.js software engineer to deeply understand both backend systems and blockchain applications. With a strong foundation in mathematics and currently pursuing a CS degree, I am committed to mastering the art of blockchain security auditing.</p>
-<p>🚀 Aiming to be one of the best auditors.</p>
-<p>🏆 Participating in Codehawks, Code4rena, Sherlock, and Cantina competitions to sharpen my skills and hunt for vulnerabilities.</p>
-<p>🔗 Always exploring new attack vectors, refining my methodologies, and staying ahead in the evolving Web3 landscape.</p>
+<p>I specialize in smart contract security, leveraging my background as a .NET & React.js software engineer to deeply understand both backend systems and blockchain applications. With a strong foundation in mathematics and currently pursuing a CS degree, I am committed to mastering the art of blockchain security auditing for delivering top-tier audits and enhancing the security of DeFi protocols.</p>
 
 ## Public Competitions <a href="https://audits.sherlock.xyz/watson/0xAlipede">Portfolio</a>
 
