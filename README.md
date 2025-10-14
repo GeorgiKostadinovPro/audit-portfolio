@@ -1,6 +1,6 @@
 
 ## About me
-<p>I specialize in smart contract security, leveraging my background as a .NET & React.js software engineer to deeply understand both backend systems and blockchain applications. With a strong foundation in mathematics and currently pursuing a CS degree, I am committed to mastering the art of blockchain security auditing for delivering top-tier audits and enhancing the security of DeFi protocols.</p>
+<p>I specialize in smart contract security, leveraging my background as a software engineer to deeply understand both backend systems and blockchain applications. With a strong foundation in mathematics and currently pursuing a CS degree, I am committed to mastering the art of blockchain security auditing for delivering top-tier audits and enhancing the security of DeFi protocols.</p>
 
 ## Public Competitions <a href="https://audits.sherlock.xyz/watson/0xAlipede">Portfolio</a>
 
@@ -36,24 +36,17 @@
   </thead>
   <tbody>
     <tr>
-      <td>2</td>
+      <td>1</td>
       <td>01/2025</td>
       <td>Sherlock</td>
       <td><a href="https://audits.sherlock.xyz/contests/498">Rova</a></td>
       <td>Onchain launchpad, Token sales</td>
       <td>1M</td>
       <td><a href="https://audits.sherlock.xyz/contests/498/report">Public</a></td>
-      <td>🥉</td>
-    </tr>
-    <tr>
-      <td>1</td>
-      <td>01/2025</td>
-      <td>Code4rena</td>
-      <td><a href="https://code4rena.com/audits/2025-01-liquid-ron">Liquid Ron</a></td>
-      <td>Ronin Staking</td>
-      <td>1M</td>
-      <td><a href="https://code4rena.com/audits/2025-01-liquid-ron">Public</a></td>
-      <td>-</td>
+      <td>3rd 🥉
+       <br>
+        place
+      </td>
     </tr>
   </tbody>
 </table>
@@ -70,9 +63,9 @@
   </thead>
   <tbody>
     <tr>
-      <td>15</td>
-      <td>11</td>
-      <td>3</td>
+      <td>17</td>
+      <td>12</td>
+      <td>5</td>
     </tr>
   </tbody>
 </table>
@@ -148,9 +141,3 @@
 - Telegram: <a href="t.me/x0xalipede">@0xalipede</a>
 - Twitter: <a href="https://x.com/0xalipede">@0xalipede</a>
 - Linkedin: <a href="https://www.linkedin.com/in/georgi-kostadinov-125349241/">Georgi Kostadinov</a>
-
-## Insights
-... coming soon ...
-
-
-
