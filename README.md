@@ -1,21 +1,28 @@
 
 ## About me
-<p>I specialize in smart contract security, leveraging my background as a software engineer to deeply understand both backend systems and blockchain applications. With a strong foundation in mathematics and currently pursuing a CS degree, I am committed to mastering the art of blockchain security auditing for delivering top-tier audits and enhancing the security of DeFi protocols.</p>
+<p>I specialize in smart contract security, leveraging my background as a software engineer to deeply understand both backend systems and blockchain applications. With a strong foundation in mathematics and currently pursuing a CS degree, I am committed to mastering the art of blockchain security for delivering top-tier audits and enhancing the security of DeFi protocols.</p>
 
-## Public Competitions <a href="https://audits.sherlock.xyz/watson/0xAlipede">Portfolio</a>
+## Contacts
+<a href="https://x.com/0xgo4ko"><strong>Twitter</strong></a>
+<a href="https://www.linkedin.com/in/georgi-kostadinov-125349241/"><strong>LinkedIn</strong></a>
+<a href="t.me/x0xgo4ko"><strong>Telegram</strong></a>
+<a href="https://discord.com/users/750438679222157382"><strong>Discord</strong></a>
 
+## My Work
+
+### Public competitions
 <table>
   <thead>
     <tr>
       <th>Highs</th>
-      <th>Meds</th>
+      <th>Mediums</th>
       <th>Lows</th>
     </tr>
   </thead>
   <tbody>
     <tr>
       <td>1</td>
-      <td>2</td>
+      <td>4</td>
       <td>1</td>
     </tr>
   </tbody>
@@ -36,6 +43,19 @@
   </thead>
   <tbody>
     <tr>
+      <td>2</td>
+      <td>10/2025</td>
+      <td>Sherlock</td>
+      <td><a href="https://audits.sherlock.xyz/contests/1176">Summer.fi</a></td>
+      <td>Governance system (DAO token, staking & voting modules)</td>
+      <td>2M</td>
+      <td><a href="https://audits.sherlock.xyz/contests/1176/report">Public</a></td>
+      <td>6th
+       <br>
+        place
+      </td>
+    </tr>
+    <tr>
       <td>1</td>
       <td>01/2025</td>
       <td>Sherlock</td>
@@ -51,7 +71,7 @@
   </tbody>
 </table>
 
-## Codehawks <a href="https://support.cyfrin.io/en/collections/10771996-first-flights">First Flights</a>
+### Codehawks <a href="https://support.cyfrin.io/en/collections/10771996-first-flights">First Flights</a>
 
 <table>
   <thead>
@@ -137,7 +157,4 @@
   </tbody>
 </table>
 
-## Contacts
-- Telegram: <a href="t.me/x0xalipede">@0xalipede</a>
-- Twitter: <a href="https://x.com/0xalipede">@0xalipede</a>
-- Linkedin: <a href="https://www.linkedin.com/in/georgi-kostadinov-125349241/">Georgi Kostadinov</a>
+
