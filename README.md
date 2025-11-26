@@ -11,19 +11,22 @@
 ## My Work
 
 ### Public competitions
+
+I compete under two usernames - 0xgo4ko & 0xAlipede.
+
+<a href="https://audits.sherlock.xyz/watson/0xgo4ko"><strong>Portfolio</strong></a>
+
 <table>
   <thead>
     <tr>
       <th>Highs</th>
       <th>Mediums</th>
-      <th>Lows</th>
     </tr>
   </thead>
   <tbody>
     <tr>
       <td>1</td>
       <td>4</td>
-      <td>1</td>
     </tr>
   </tbody>
 </table>
