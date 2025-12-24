@@ -1,6 +1,6 @@
 
 ## About me
-<p>I specialize in smart contract security, leveraging my background as a software engineer to deeply understand both backend systems and blockchain applications. With a strong foundation in mathematics and currently pursuing a CS degree, I am committed to mastering the art of blockchain security for delivering top-tier audits and enhancing the security of DeFi protocols.</p>
+<p>I am a passionate smart contract security researcher and CS undergraduate who is committed to mastering the art of blockchain security for delivering top-tier audits and enhancing the security of DeFi protocols.</p>
 
 ## Contacts
 <a href="https://x.com/0xgo4ko"><strong>Twitter</strong></a>
@@ -12,9 +12,9 @@
 
 ### Public competitions
 
-I compete under two usernames - 0xgo4ko & 0xAlipede.
+I compete under the username - 0xAlipede.
 
-<a href="https://audits.sherlock.xyz/watson/0xgo4ko"><strong>Portfolio</strong></a>
+<a href="https://audits.sherlock.xyz/watson/0xAlipede"><strong>Portfolio</strong></a>
 
 <table>
   <thead>
@@ -26,7 +26,7 @@ I compete under two usernames - 0xgo4ko & 0xAlipede.
   <tbody>
     <tr>
       <td>1</td>
-      <td>4</td>
+      <td>6</td>
     </tr>
   </tbody>
 </table>
@@ -45,6 +45,19 @@ I compete under two usernames - 0xgo4ko & 0xAlipede.
     </tr>
   </thead>
   <tbody>
+    <tr>
+      <td>3</td>
+      <td>11/2025</td>
+      <td>Sherlock</td>
+      <td><a href="https://audits.sherlock.xyz/contests/1202">Inverse Finance</a></td>
+      <td>ERC4626, Stablecoin, Staking</td>
+      <td>2M</td>
+      <td><a href="https://audits.sherlock.xyz/contests/1202">Private</a></td>
+      <td>1st 🥇
+       <br>
+        place
+      </td>
+    </tr>
     <tr>
       <td>2</td>
       <td>10/2025</td>
