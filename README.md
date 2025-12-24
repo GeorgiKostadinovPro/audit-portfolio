@@ -38,7 +38,7 @@ I compete under the username <a href="https://audits.sherlock.xyz/watson/0xAlipe
       <th>Protocol</th>
       <th>Type</th>
       <th>Findings</th>
-      <th>Report</th>
+      <th>Leaderboard</th>
       <th>Rank</th>
     </tr>
   </thead>
@@ -50,7 +50,7 @@ I compete under the username <a href="https://audits.sherlock.xyz/watson/0xAlipe
       <td><a href="https://audits.sherlock.xyz/contests/1202">Inverse Finance</a></td>
       <td>ERC4626, Stablecoin, Staking</td>
       <td>2M</td>
-      <td><a href="https://audits.sherlock.xyz/contests/1202">Private</a></td>
+      <td><a href="https://audits.sherlock.xyz/contests/1202/leaderboard">View</a></td>
       <td>1st 🥇
        <br>
         place
@@ -63,7 +63,7 @@ I compete under the username <a href="https://audits.sherlock.xyz/watson/0xAlipe
       <td><a href="https://audits.sherlock.xyz/contests/1176">Summer.fi</a></td>
       <td>Governance system (DAO token, staking & voting modules)</td>
       <td>2M</td>
-      <td><a href="https://audits.sherlock.xyz/contests/1176/report">Public</a></td>
+      <td><a href="https://audits.sherlock.xyz/contests/1176/leaderboard">View</a></td>
       <td>6th
        <br>
         place
@@ -76,7 +76,7 @@ I compete under the username <a href="https://audits.sherlock.xyz/watson/0xAlipe
       <td><a href="https://audits.sherlock.xyz/contests/498">Rova</a></td>
       <td>Onchain launchpad, Token sales</td>
       <td>1M</td>
-      <td><a href="https://audits.sherlock.xyz/contests/498/report">Public</a></td>
+      <td><a href="https://audits.sherlock.xyz/contests/498/leaderboard">View</a></td>
       <td>3rd 🥉
        <br>
         place
