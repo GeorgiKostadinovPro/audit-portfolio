@@ -12,9 +12,7 @@
 
 ### Public competitions
 
-I compete under the username - 0xAlipede.
-
-<a href="https://audits.sherlock.xyz/watson/0xAlipede"><strong>Portfolio</strong></a>
+I compete under the username <a href="https://audits.sherlock.xyz/watson/0xAlipede"><strong>0xAlipede</strong></a>
 
 <table>
   <thead>
