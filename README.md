@@ -51,9 +51,7 @@ I compete under the username <a href="https://audits.sherlock.xyz/watson/0xAlipe
       <td>ERC4626, Stablecoin, Staking</td>
       <td>2M</td>
       <td><a href="https://audits.sherlock.xyz/contests/1202/leaderboard">View</a></td>
-      <td>1st 🥇
-       <br>
-        place
+      <td>1st 🥇 place
       </td>
     </tr>
     <tr>
@@ -64,10 +62,7 @@ I compete under the username <a href="https://audits.sherlock.xyz/watson/0xAlipe
       <td>Governance system (DAO token, staking & voting modules)</td>
       <td>2M</td>
       <td><a href="https://audits.sherlock.xyz/contests/1176/leaderboard">View</a></td>
-      <td>6th
-       <br>
-        place
-      </td>
+      <td>6th place </td>
     </tr>
     <tr>
       <td>1</td>
@@ -77,10 +72,7 @@ I compete under the username <a href="https://audits.sherlock.xyz/watson/0xAlipe
       <td>Onchain launchpad, Token sales</td>
       <td>1M</td>
       <td><a href="https://audits.sherlock.xyz/contests/498/leaderboard">View</a></td>
-      <td>3rd 🥉
-       <br>
-        place
-      </td>
+      <td>3rd 🥉 place </td>
     </tr>
   </tbody>
 </table>
