@@ -1,10 +1,9 @@
 
 ## About me
-<p>I am a passionate smart contract security researcher and CS undergraduate who is committed to mastering the art of blockchain security for delivering top-tier audits and enhancing the security of DeFi protocols.</p>
+<p>I am a passionate smart contract security researcher, Rektoff Cohort 3 intern and CS undergraduate who is committed to mastering the art of blockchain security for delivering top-tier audits and enhancing the security of DeFi protocols.</p>
 
 ## Contacts
 <a href="https://x.com/0xgo4ko"><strong>Twitter</strong></a>
-<a href="https://www.linkedin.com/in/georgi-kostadinov-125349241/"><strong>LinkedIn</strong></a>
 <a href="https://t.me/x0xgo4ko"><strong>Telegram</strong></a>
 <a href="https://discord.com/users/750438679222157382"><strong>Discord</strong></a>
 
@@ -23,7 +22,7 @@ I compete under the username <a href="https://audits.sherlock.xyz/watson/0xAlipe
   </thead>
   <tbody>
     <tr>
-      <td>1</td>
+      <td>7</td>
       <td>6</td>
     </tr>
   </tbody>
@@ -38,41 +37,62 @@ I compete under the username <a href="https://audits.sherlock.xyz/watson/0xAlipe
       <th>Protocol</th>
       <th>Type</th>
       <th>Findings</th>
-      <th>Leaderboard</th>
+      <th>Report</th>
       <th>Rank</th>
     </tr>
   </thead>
   <tbody>
     <tr>
-      <td>3</td>
+      <td>5</td>
+      <td>11/2025</td>
+      <td>DualGuard</td>
+      <td><a href="https://github.com/dualguard/2025-11-alignerz">AlignerZ</a></td>
+      <td>NFT, Token Launchpad</td>
+      <td>6H, 1L</td>
+      <td><a href="https://github.com/dualguard/2025-11-judging-alignerz">Public</a></td>
+      <td>-
+      </td>
+    </tr>
+    <tr>
+      <td>4</td>
       <td>11/2025</td>
       <td>Sherlock</td>
       <td><a href="https://audits.sherlock.xyz/contests/1202">Inverse Finance</a></td>
-      <td>ERC4626, Stablecoin, Staking</td>
+      <td>Stablecoin, Staking, ERC4626</td>
       <td>2M</td>
-      <td><a href="https://audits.sherlock.xyz/contests/1202/leaderboard">View</a></td>
+      <td><a href="https://audits.sherlock.xyz/contests/1202/">Private</a></td>
       <td>1st 🥇 place
       </td>
     </tr>
     <tr>
-      <td>2</td>
+      <td>3</td>
       <td>10/2025</td>
       <td>Sherlock</td>
       <td><a href="https://audits.sherlock.xyz/contests/1176">Summer.fi</a></td>
       <td>Governance system (DAO token, staking & voting modules)</td>
       <td>2M</td>
-      <td><a href="https://audits.sherlock.xyz/contests/1176/leaderboard">View</a></td>
+      <td><a href="https://audits.sherlock.xyz/contests/1176">Private</a></td>
       <td>6th place </td>
     </tr>
     <tr>
-      <td>1</td>
-      <td>01/2025</td>
+      <td>2</td>
+      <td>02/2025</td>
       <td>Sherlock</td>
       <td><a href="https://audits.sherlock.xyz/contests/498">Rova</a></td>
       <td>Onchain launchpad, Token sales</td>
       <td>1M</td>
-      <td><a href="https://audits.sherlock.xyz/contests/498/leaderboard">View</a></td>
+      <td><a href="https://audits.sherlock.xyz/contests/498">Private</a></td>
       <td>3rd 🥉 place </td>
+    </tr>
+      <tr>
+      <td>1</td>
+      <td>01/2025</td>
+      <td>Code4rena</td>
+      <td><a href="https://code4rena.com/audits/2025-01-liquid-ron">Liquid Ron</a></td>
+      <td>Staking, ERC4626</td>
+      <td>1M</td>
+      <td><a href="https://code4rena.com/reports/2025-01-liquid-ron">Public</a></td>
+      <td>12th place </td>
     </tr>
   </tbody>
 </table>
