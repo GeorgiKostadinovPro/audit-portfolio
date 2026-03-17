@@ -14,7 +14,7 @@
 Biggest achievement:
 
 1st place in the Inverse Finance contest on Sherlock.
-Achieved 100% coverage on a codebase previously audited by Sherlock's LSWs.
+Achieved 100% coverage on a codebase previously audited by Sherlock.
 
 <table>
   <thead>
