@@ -49,7 +49,7 @@ Achieved 100% coverage on a codebase previously audited by Sherlock's LSWs.
       <td>6</td>
       <td>01/2026</td>
       <td>Sherlock</td>
-      <td><a href="https://audits.sherlock.xyz/contests/1222">OpenCover Insured Vaults</a></td>
+      <td><a href="https://audits.sherlock.xyz/contests/1222">Open Cover Insured Vaults</a></td>
       <td>Insurance Vaults, ERC7540, ERC7575</td>
       <td>-</td>
       <td><a href="https://audits.sherlock.xyz/contests/1222">Private</a></td>
