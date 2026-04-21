@@ -46,6 +46,17 @@ Achieved 100% coverage on a codebase previously audited by Sherlock.
   </thead>
   <tbody>
     <tr>
+      <td>7</td>
+      <td>03/2026</td>
+      <td>Immunefi</td>
+      <td><a href="https://immunefi.com/audit-competition/audit-comp-folks-finance-staking-contracts/leaderboard/#top">Folks Finance: Staking Contracts</a></td>
+      <td>fixed-APR ERC-20 staking protocol with linear unlock, migration support, and on-chain reward reservation guarantees</td>
+      <td>1/1 Low</td>
+      <td><a href="[https://audits.sherlock.xyz/contests/1222](https://reports.immunefi.com/folks-finance-staking-contracts?utm_source=boost_program_page)">Public</a></td>
+      <td>9th 🎖️place
+      </td>
+    </tr>
+    <tr>
       <td>6</td>
       <td>01/2026</td>
       <td>Sherlock</td>
