@@ -26,7 +26,7 @@ Achieved 100% coverage on a codebase previously audited by Sherlock.
   <tbody>
     <tr>
       <td>7</td>
-      <td>6</td>
+      <td>7</td>
     </tr>
   </tbody>
 </table>
@@ -51,7 +51,7 @@ Achieved 100% coverage on a codebase previously audited by Sherlock.
       <td>Immunefi</td>
       <td><a href="https://immunefi.com/audit-competition/audit-comp-folks-finance-staking-contracts/leaderboard/#top">Folks Finance: Staking Contracts</a></td>
       <td>fixed-APR ERC-20 staking protocol with linear unlock, migration support, and on-chain reward reservation guarantees</td>
-      <td>1/1 Low</td>
+      <td>1/1M</td>
       <td><a href="https://reports.immunefi.com/folks-finance-staking-contracts?utm_source=boost_program_page">Public</a></td>
       <td>9th 🎖️place
       </td>
