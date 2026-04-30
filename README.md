@@ -107,7 +107,7 @@ Achieved 100% coverage on a codebase previously audited by Sherlock.
       <td><a href="https://audits.sherlock.xyz/contests/1176">Summer.fi</a></td>
       <td>Governance system (DAO token, staking & voting modules)</td>
       <td>2M</td>
-      <td><a href="https://audits.sherlock.xyz/contests/1176">Private</a></td>
+      <td><a href="https://audits.sherlock.xyz/contests/1176">Public</a></td>
       <td>6th 🎖️ place 
       </td>
     </tr>
@@ -118,7 +118,7 @@ Achieved 100% coverage on a codebase previously audited by Sherlock.
       <td><a href="https://audits.sherlock.xyz/contests/498">Rova</a></td>
       <td>Onchain launchpad, Token sales</td>
       <td>1M</td>
-      <td><a href="https://audits.sherlock.xyz/contests/498">Private</a></td>
+      <td><a href="https://audits.sherlock.xyz/contests/498">Public</a></td>
       <td>3rd 🥉 place </td>
     </tr>
       <tr>
