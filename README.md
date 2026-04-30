@@ -46,11 +46,22 @@ Achieved 100% coverage on a codebase previously audited by Sherlock.
   </thead>
   <tbody>
     <tr>
+      <td>8</td>
+      <td>04/2026</td>
+      <td>Sherlock</td>
+      <td><a href="https://audits.sherlock.xyz/contests/1263">Clear Macro by Superfluid</a></td>
+      <td>Translate complex dApp transactions into secure, human-readable intents for users to easily read, sign, and forward. ERC2771, ERC712</td>
+      <td>-</td>
+      <td>Private</td>
+      <td>8th 🎖️place
+      </td>
+    </tr>
+    <tr>
       <td>7</td>
       <td>03/2026</td>
       <td>Immunefi</td>
       <td><a href="https://immunefi.com/audit-competition/audit-comp-folks-finance-staking-contracts/leaderboard/#top">Folks Finance: Staking Contracts</a></td>
-      <td>fixed-APR ERC-20 staking protocol with linear unlock, migration support, and on-chain reward reservation guarantees</td>
+      <td>Fixed-APR ERC-20 staking protocol with linear unlock, migration support, and on-chain reward reservation guarantees</td>
       <td>1/1M</td>
       <td><a href="https://reports.immunefi.com/folks-finance-staking-contracts?utm_source=boost_program_page">Public</a></td>
       <td>9th 🎖️place
@@ -63,7 +74,7 @@ Achieved 100% coverage on a codebase previously audited by Sherlock.
       <td><a href="https://audits.sherlock.xyz/contests/1222">Open Cover Insured Vaults</a></td>
       <td>Insurance Vaults, ERC7540, ERC7575</td>
       <td>-</td>
-      <td><a href="https://audits.sherlock.xyz/contests/1222">Private</a></td>
+      <td>Private</td>
       <td>4th 🎖️place
       </td>
     </tr>
@@ -85,7 +96,7 @@ Achieved 100% coverage on a codebase previously audited by Sherlock.
       <td><a href="https://audits.sherlock.xyz/contests/1202">Inverse Finance</a></td>
       <td>Bad debt insurance of a lending protocol, Staking, ERC4626</td>
       <td>2M</td>
-      <td><a href="https://audits.sherlock.xyz/contests/1202/">Private</a></td>
+      <td><a href="https://audits.sherlock.xyz/contests/1202/">Public</a></td>
       <td>1st 🥇 place
       </td>
     </tr>
