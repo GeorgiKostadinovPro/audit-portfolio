@@ -25,8 +25,8 @@ Achieved 100% coverage on a codebase previously audited by Sherlock.
   </thead>
   <tbody>
     <tr>
-      <td>7</td>
-      <td>7</td>
+      <td>8</td>
+      <td>8</td>
     </tr>
   </tbody>
 </table>
@@ -34,7 +34,6 @@ Achieved 100% coverage on a codebase previously audited by Sherlock.
 <table>
   <thead>
     <tr>
-      <th>№</th>
       <th>Date</th>
       <th>Platform</th>
       <th>Protocol</th>
@@ -46,7 +45,16 @@ Achieved 100% coverage on a codebase previously audited by Sherlock.
   </thead>
   <tbody>
     <tr>
-      <td>8</td>
+      <td>04/2026</td>
+      <td>Cantina</td>
+      <td><a href="https://cantina.xyz/code/e55ee7b9-6c99-42f8-8338-39f3dd134ef3/overview">Revert Finance - Stableswap Hooks</a></td>
+      <td>A Uniswap v4 hook implementation that brings Curve-style StableSwap AMM behavior to v4 pools</td>
+      <td>1H, 1M</td>
+      <td>Private</td>
+      <td>#52 | 773
+      </td>
+    </tr>
+    <tr>
       <td>04/2026</td>
       <td>Sherlock</td>
       <td><a href="https://audits.sherlock.xyz/contests/1263">Clear Macro by Superfluid</a></td>
@@ -57,7 +65,6 @@ Achieved 100% coverage on a codebase previously audited by Sherlock.
       </td>
     </tr>
     <tr>
-      <td>7</td>
       <td>03/2026</td>
       <td>Immunefi</td>
       <td><a href="https://immunefi.com/audit-competition/audit-comp-folks-finance-staking-contracts/leaderboard/#top">Folks Finance: Staking Contracts</a></td>
@@ -68,7 +75,6 @@ Achieved 100% coverage on a codebase previously audited by Sherlock.
       </td>
     </tr>
     <tr>
-      <td>6</td>
       <td>01/2026</td>
       <td>Sherlock</td>
       <td><a href="https://audits.sherlock.xyz/contests/1222">Open Cover Insured Vaults</a></td>
@@ -79,7 +85,6 @@ Achieved 100% coverage on a codebase previously audited by Sherlock.
       </td>
     </tr>
     <tr>
-      <td>5</td>
       <td>11/2025</td>
       <td>DualGuard</td>
       <td><a href="https://github.com/dualguard/2025-11-alignerz">AlignerZ</a></td>
@@ -90,7 +95,6 @@ Achieved 100% coverage on a codebase previously audited by Sherlock.
       </td>
     </tr>
     <tr>
-      <td>4</td>
       <td>11/2025</td>
       <td>Sherlock</td>
       <td><a href="https://audits.sherlock.xyz/contests/1202">Inverse Finance</a></td>
@@ -101,7 +105,6 @@ Achieved 100% coverage on a codebase previously audited by Sherlock.
       </td>
     </tr>
     <tr>
-      <td>3</td>
       <td>10/2025</td>
       <td>Sherlock</td>
       <td><a href="https://audits.sherlock.xyz/contests/1176">Summer.fi</a></td>
@@ -112,7 +115,6 @@ Achieved 100% coverage on a codebase previously audited by Sherlock.
       </td>
     </tr>
     <tr>
-      <td>2</td>
       <td>02/2025</td>
       <td>Sherlock</td>
       <td><a href="https://audits.sherlock.xyz/contests/498">Rova</a></td>
@@ -122,7 +124,6 @@ Achieved 100% coverage on a codebase previously audited by Sherlock.
       <td>3rd 🥉 place </td>
     </tr>
       <tr>
-      <td>1</td>
       <td>01/2025</td>
       <td>Code4rena</td>
       <td><a href="https://code4rena.com/audits/2025-01-liquid-ron">Liquid Ron</a></td>
