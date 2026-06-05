@@ -1,4 +1,3 @@
-
 ## About me
 <p>I am a passionate smart contract security researcher, Rektoff Cohort 3 intern and CS undergraduate who is committed to mastering the art of blockchain security for delivering top-tier audits and enhancing the security of DeFi protocols.</p>
 
@@ -11,10 +10,17 @@
 
 ### Public competitions
 
-Biggest achievement:
+<p>
+  Sherlock portfolio:
+  <a href="https://audits.sherlock.xyz/watson/0xAlipede">0xAlipede</a>
+</p>
 
-1st place in the Inverse Finance contest.
-Achieved 100% coverage on a codebase previously audited by Sherlock.
+<p>
+  <strong>Biggest achievement:</strong><br>
+  🥇 1st place in the Inverse Finance contest, achieving 100% coverage on a codebase previously audited by Sherlock.
+</p>
+
+<br>
 
 <table>
   <thead>
@@ -34,45 +40,38 @@ Achieved 100% coverage on a codebase previously audited by Sherlock.
 <table>
   <thead>
     <tr>
-      <th>Date</th>
-      <th>Platform</th>
-      <th>Protocol</th>
-      <th>Type</th>
-      <th>Findings</th>
-      <th>Report</th>
-      <th>Rank</th>
+      <th width="10%">Date</th>
+      <th width="10%">Platform</th>
+      <th width="20%">Protocol</th>
+      <th width="37%">Category</th>
+      <th width="10%">Findings</th>
+      <th width="13%">Result</th>
     </tr>
   </thead>
   <tbody>
     <tr>
       <td>04/2026</td>
       <td>Cantina</td>
-      <td><a href="https://cantina.xyz/code/e55ee7b9-6c99-42f8-8338-39f3dd134ef3/overview">Revert Finance - Stableswap Hooks</a></td>
-      <td>A Uniswap v4 hook implementation that brings Curve-style StableSwap AMM behavior to v4 pools</td>
+      <td><a href="https://cantina.xyz/code/e55ee7b9-6c99-42f8-8338-39f3dd134ef3/overview">Revert Finance - StableSwap Hooks</a></td>
+      <td>Uniswap v4 Hook, Curve-style StableSwap AMM</td>
       <td>1H, 1M</td>
-      <td>Private</td>
-      <td>#52 | 773
-      </td>
+      <td>52th 🎖️ | 773</td>
     </tr>
     <tr>
       <td>04/2026</td>
       <td>Sherlock</td>
       <td><a href="https://audits.sherlock.xyz/contests/1263">Clear Macro by Superfluid</a></td>
-      <td>Translate complex dApp transactions into secure, human-readable intents for users to easily read, sign, and forward. ERC2771, ERC712</td>
+      <td>Intent System, ERC2771, ERC712</td>
       <td>-</td>
-      <td>Private</td>
-      <td>8th 🎖️place
-      </td>
+      <td>8th 🎖️ | 695</td>
     </tr>
     <tr>
       <td>03/2026</td>
       <td>Immunefi</td>
       <td><a href="https://immunefi.com/audit-competition/audit-comp-folks-finance-staking-contracts/leaderboard/#top">Folks Finance: Staking Contracts</a></td>
-      <td>Fixed-APR ERC-20 staking protocol with linear unlock, migration support, and on-chain reward reservation guarantees</td>
-      <td>1/1M</td>
-      <td><a href="https://reports.immunefi.com/folks-finance-staking-contracts?utm_source=boost_program_page">Public</a></td>
-      <td>9th 🎖️place
-      </td>
+      <td>Fixed-APR Staking with linear unlock, migration support, and on-chain reward reservation guarantees</td>
+      <td>1M</td>
+      <td>9th 🎖️</td>
     </tr>
     <tr>
       <td>01/2026</td>
@@ -80,19 +79,15 @@ Achieved 100% coverage on a codebase previously audited by Sherlock.
       <td><a href="https://audits.sherlock.xyz/contests/1222">Open Cover Insured Vaults</a></td>
       <td>Insurance Vaults, ERC7540, ERC7575</td>
       <td>-</td>
-      <td>Private</td>
-      <td>4th 🎖️place
-      </td>
+      <td>4th 🎖️ | 751</td>
     </tr>
     <tr>
       <td>11/2025</td>
-      <td>DualGuard</td>
+      <td>Sherlock</td>
       <td><a href="https://github.com/dualguard/2025-11-alignerz">AlignerZ</a></td>
       <td>NFT, Token Launchpad</td>
       <td>6H, 1L</td>
-      <td><a href="https://github.com/dualguard/2025-11-judging-alignerz">Public</a></td>
-      <td>-
-      </td>
+      <td>Top 90</td>
     </tr>
     <tr>
       <td>11/2025</td>
@@ -100,9 +95,7 @@ Achieved 100% coverage on a codebase previously audited by Sherlock.
       <td><a href="https://audits.sherlock.xyz/contests/1202">Inverse Finance</a></td>
       <td>Bad debt insurance of a lending protocol, Staking, ERC4626</td>
       <td>2M</td>
-      <td><a href="https://audits.sherlock.xyz/contests/1202/">Public</a></td>
-      <td>1st 🥇 place
-      </td>
+      <td>1st 🥇 | 525</td>
     </tr>
     <tr>
       <td>10/2025</td>
@@ -110,9 +103,7 @@ Achieved 100% coverage on a codebase previously audited by Sherlock.
       <td><a href="https://audits.sherlock.xyz/contests/1176">Summer.fi</a></td>
       <td>Governance system (DAO token, staking & voting modules)</td>
       <td>2M</td>
-      <td><a href="https://audits.sherlock.xyz/contests/1176">Public</a></td>
-      <td>6th 🎖️ place 
-      </td>
+      <td>6th 🎖️ | 677</td>
     </tr>
     <tr>
       <td>02/2025</td>
@@ -120,20 +111,20 @@ Achieved 100% coverage on a codebase previously audited by Sherlock.
       <td><a href="https://audits.sherlock.xyz/contests/498">Rova</a></td>
       <td>Onchain launchpad, Token sales</td>
       <td>1M</td>
-      <td><a href="https://audits.sherlock.xyz/contests/498">Public</a></td>
-      <td>3rd 🥉 place </td>
+      <td>3rd 🥉 | 397</td>
     </tr>
-      <tr>
+    <tr>
       <td>01/2025</td>
       <td>Code4rena</td>
       <td><a href="https://code4rena.com/audits/2025-01-liquid-ron">Liquid Ron</a></td>
       <td>Staking, ERC4626</td>
       <td>1M</td>
-      <td><a href="https://code4rena.com/reports/2025-01-liquid-ron">Public</a></td>
-      <td>12th 🎖️ place </td>
+      <td>12th 🎖️ | 533</td>
     </tr>
   </tbody>
 </table>
+
+<hr>
 
 ### Codehawks <a href="https://support.cyfrin.io/en/collections/10771996-first-flights">First Flights</a>
 
