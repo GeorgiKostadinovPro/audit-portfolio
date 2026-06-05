@@ -41,11 +41,11 @@
   <thead>
     <tr>
       <th width="10%">Date</th>
-      <th width="10%">Platform</th>
+      <th width="8%">Platform</th>
       <th width="18%">Protocol</th>
       <th width="37%">Category</th>
       <th width="10%">Findings</th>
-      <th width="15%">Result</th>
+      <th width="17%">Result</th>
     </tr>
   </thead>
   <tbody>
