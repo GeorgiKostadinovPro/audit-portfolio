@@ -126,6 +126,35 @@
 
 <hr>
 
+### Private work
+
+<table>
+  <thead>
+    <tr>
+      <th>Date</th>
+      <th>Company</th>
+      <th>Work</th>
+      <th>Protocol</th>
+      <th>Category</th>
+      <th>Language</th>
+      <th>Findings</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>06/2026</td>
+      <td><a href="https://www.pashov.com/">Pashov Audit Group</a></td>
+      <td>Triaging</td>
+      <td><a href="https://github.com/near/nearcore">Near - VM Runner</a></td>
+      <td>Infrastructure</td>
+      <td>Rust</td>
+      <td>83</td>
+    </tr>
+  </tbody>
+</table>
+
+<hr>
+
 ### Codehawks <a href="https://support.cyfrin.io/en/collections/10771996-first-flights">First Flights</a>
 
 <table>
