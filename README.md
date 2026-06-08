@@ -148,7 +148,7 @@
       <td><a href="https://github.com/near/nearcore">Near - VM Runner</a></td>
       <td>Infrastructure</td>
       <td>Rust</td>
-      <td>83</td>
+      <td>84</td>
     </tr>
   </tbody>
 </table>
