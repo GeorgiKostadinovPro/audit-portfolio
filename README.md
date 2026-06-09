@@ -148,7 +148,7 @@
       <td><a href="https://github.com/sky-ecosystem">Sky - Cross-Chain Governance</a></td>
       <td>Bridge</td>
       <td>Rust</td>
-      <td>52</td>
+      <td>Private</td>
     </tr>
     <tr>
       <td>06/2026</td>
@@ -157,7 +157,7 @@
       <td><a href="https://github.com/near/nearcore">Near - VM Runner</a></td>
       <td>Infrastructure</td>
       <td>Rust</td>
-      <td>84</td>
+      <td>Private</td>
     </tr>
   </tbody>
 </table>
