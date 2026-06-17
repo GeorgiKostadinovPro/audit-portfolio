@@ -145,6 +145,24 @@
       <td>06/2026</td>
       <td><a href="https://www.pashov.com/">Pashov Audit Group</a></td>
       <td>Triaging</td>
+      <td><a href="https://github.com/fbtc-xyz/fbtc-contract">FBTC</a></td>
+      <td>Bridge</td>
+      <td>Solidity</td>
+      <td>Private</td>
+    </tr>
+    <tr>
+      <td>06/2026</td>
+      <td><a href="https://www.pashov.com/">Pashov Audit Group</a></td>
+      <td>Triaging</td>
+      <td><a href="https://usdt0.to/">USDT0</a></td>
+      <td>Stablecoin</td>
+      <td>Solidity</td>
+      <td>Private</td>
+    </tr>
+    <tr>
+      <td>06/2026</td>
+      <td><a href="https://www.pashov.com/">Pashov Audit Group</a></td>
+      <td>Triaging</td>
       <td><a href="https://github.com/sky-ecosystem">Sky - Cross-Chain Governance</a></td>
       <td>Bridge</td>
       <td>Rust</td>
