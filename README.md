@@ -145,6 +145,24 @@
       <td>06/2026</td>
       <td><a href="https://www.pashov.com/">Pashov Audit Group</a></td>
       <td>Triaging</td>
+      <td><a href="https://github.com/Se7en-Seas/boring-vault/">Nucleus</a></td>
+      <td>Yield</td>
+      <td>Solidity</td>
+      <td>Private</td>
+    </tr>
+    <tr>
+      <td>06/2026</td>
+      <td><a href="https://www.pashov.com/">Pashov Audit Group</a></td>
+      <td>Triaging</td>
+      <td><a href="https://github.com/variational-research">Variational</a></td>
+      <td>Perpetual</td>
+      <td>Solidity</td>
+      <td>Private</td>
+    </tr>
+    <tr>
+      <td>06/2026</td>
+      <td><a href="https://www.pashov.com/">Pashov Audit Group</a></td>
+      <td>Triaging</td>
       <td><a href="https://github.com/fbtc-xyz/fbtc-contract">FBTC</a></td>
       <td>Bridge</td>
       <td>Solidity</td>
