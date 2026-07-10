@@ -10,10 +10,20 @@
 
 ### Public competitions
 
-<p>
-  Sherlock portfolio:
-  <a href="https://audits.sherlock.xyz/watson/0xAlipede">0xAlipede</a>
-</p>
+<ul>
+  <li>
+    Sherlock portfolio (Solo) => 
+    <a href="https://audits.sherlock.xyz/watson/0xAlipede">0xAlipede</a>
+  </li>
+  <li>
+    Hackenproof portfolio (Team) =>
+    <a href="https://hackenproof.com/hackers/Invalidatoors">Invalidatoors</a>
+  </li>
+  <li>
+    Sherlock portoflio (Team) =>
+    <a href="https://audits.sherlock.xyz/watson/0xAlipede">Invalidatoors</a>
+  </li>
+</ul>
 
 <p>
   <strong>Biggest achievement:</strong><br>
@@ -32,7 +42,7 @@
   <tbody>
     <tr>
       <td>8</td>
-      <td>8</td>
+      <td>9</td>
     </tr>
   </tbody>
 </table>
@@ -49,6 +59,14 @@
     </tr>
   </thead>
   <tbody>
+    <tr>
+      <td>05/2026</td>
+      <td>Sherlock</td>
+      <td><a href="https://audits.sherlock.xyz/contests/1260">XRP Ledger</a></td>
+      <td>L1 Blockchain (Batch, Permission Delegation, MPT DEX, Confidential Transfer, Sponsored Fees and Reserves)</td>
+      <td>1M, 1L</td>
+      <td>Top 100</td>
+    </tr>
     <tr>
       <td>04/2026</td>
       <td>Cantina</td>
