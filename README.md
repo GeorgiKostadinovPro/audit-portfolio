@@ -41,8 +41,8 @@
   </thead>
   <tbody>
     <tr>
-      <td>8</td>
-      <td>9</td>
+      <td>14</td>
+      <td>16</td>
     </tr>
   </tbody>
 </table>
@@ -59,6 +59,22 @@
     </tr>
   </thead>
   <tbody>
+    <tr>
+      <td>06/2026</td>
+      <td>Hackenproof</td>
+      <td><a href="https://dashboard.hackenproof.com/user/programs/0xmarkets-audit-contest">0xMarkets</a></td>
+      <td>Decentralized perpetual futures on FX, crypto, and commodities. Decentralized liquidity. Powered by Bittensor.</td>
+      <td>6H, 7M, 3L</td>
+      <td>7th 🎖️ | 196</td>
+    </tr>
+    <tr>
+      <td>06/2026</td>
+      <td>Sherlock</td>
+      <td><a href="https://audits.sherlock.xyz/contests/1259">DRE App - dreUSD</a></td>
+      <td>Stablecoin, ERC-4626 vault, Layer Zero OFT adapters</td>
+      <td>Points ranking</td>
+      <td>14th 🎖️ | 1080</td>
+    </tr>
     <tr>
       <td>05/2026</td>
       <td>Sherlock</td>
@@ -79,8 +95,8 @@
       <td>04/2026</td>
       <td>Sherlock</td>
       <td><a href="https://audits.sherlock.xyz/contests/1263">Clear Macro by Superfluid</a></td>
-      <td>Intent System, ERC2771, ERC712</td>
-      <td>-</td>
+      <td>Intent System, ERC-2771, ERC-712</td>
+      <td>Points ranking</td>
       <td>8th 🎖️ | 695</td>
     </tr>
     <tr>
@@ -95,8 +111,8 @@
       <td>01/2026</td>
       <td>Sherlock</td>
       <td><a href="https://audits.sherlock.xyz/contests/1222">Open Cover Insured Vaults</a></td>
-      <td>Insurance Vaults, ERC7540, ERC7575</td>
-      <td>-</td>
+      <td>Insurance Vaults, ERC-7540, ERC-7575</td>
+      <td>Points ranking</td>
       <td>4th 🎖️ | 751</td>
     </tr>
     <tr>
@@ -135,7 +151,7 @@
       <td>01/2025</td>
       <td>Code4rena</td>
       <td><a href="https://code4rena.com/audits/2025-01-liquid-ron">Liquid Ron</a></td>
-      <td>Staking, ERC4626</td>
+      <td>Staking, ERC-4626</td>
       <td>1M</td>
       <td>12th 🎖️ | 533</td>
     </tr>
