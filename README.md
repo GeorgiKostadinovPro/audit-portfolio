@@ -21,7 +21,7 @@
   </li>
   <li>
     Sherlock portoflio (Team) =>
-    <a href="https://audits.sherlock.xyz/watson/0xAlipede">Invalidatoors</a>
+    <a href="https://audits.sherlock.xyz/watson/Invalidatoors">Invalidatoors</a>
   </li>
 </ul>
 
