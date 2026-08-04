@@ -27,7 +27,7 @@
 
 <p>
   <strong>Biggest achievement:</strong><br>
-  🥇 1st place in the Inverse Finance contest, achieving 100% coverage on a codebase previously audited by Sherlock.
+  🥇 1st place in the Inverse Finance contest, achieving 100% coverage on a codebase previously audited by Sherlock. <a href="https://audits.sherlock.xyz/contests/1202/leaderboard">Leaderboard</a>
 </p>
 
 <br>
