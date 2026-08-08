@@ -32,14 +32,16 @@
     <strong>Biggest achievements:</strong>
     <br>
   </p>
-
+  
   <strong>Solo:</strong><br>
   🥇 1st place in the Inverse Finance contest, achieving 100% coverage on a codebase previously audited by Sherlock. 
+  <br>
   <a href="https://audits.sherlock.xyz/contests/1202/leaderboard">Leaderboard</a>
   <br>
 
   <strong>Team:</strong><br>
   🏆 7th place in the 0xMarkets contest on Hackenproof.
+  <br>
   <a href="https://hackenproof.com/audit-programs/0xmarkets-audit-contest?tab=hackers&page=2">Leaderboard</a>
   <br>
 
