@@ -18,7 +18,7 @@
     <a href="https://audits.sherlock.xyz/watson/0xAlipede">0xAlipede</a>
   </li>
   <li>
-    Hackenproof portfolio (Team) =>
+    Hackenproof portfolio (Team Top 100 All-Time) =>
     <a href="https://hackenproof.com/hackers/Invalidatoors">Invalidatoors</a>
   </li>
   <li>
@@ -52,13 +52,15 @@
 <table>
   <thead>
     <tr>
+      <th>Crits</th>
       <th>Highs</th>
       <th>Mediums</th>
     </tr>
   </thead>
   <tbody>
     <tr>
-      <td>14</td>
+      <td>3</td>
+      <td>16</td>
       <td>16</td>
     </tr>
   </tbody>
@@ -80,9 +82,17 @@
       <td>06/2026</td>
       <td>Hackenproof</td>
       <td><a href="https://hackenproof.com/audit-programs/0xmarkets-audit-contest">0xMarkets</a></td>
-      <td>Decentralized perpetual futures on FX, crypto, and commodities. Decentralized liquidity. Powered by Bittensor.</td>
+      <td>Decentralized perpetual futures on FX, crypto, and commodities. Powered by Bittensor.</td>
       <td>6H, 7M, 3L</td>
       <td>7th 🎖️ | 196</td>
+    </tr>
+    <tr>
+      <td>06/2026</td>
+      <td>Hackenproof</td>
+      <td><a href="https://hackenproof.com/audit-programs/tiprun-smart-contract-audit-contest">TipRun</a></td>
+      <td>Prediction market exchange</td>
+      <td>3C, 2H</td>
+      <td>24th 🎖️ | 127</td>
     </tr>
     <tr>
       <td>06/2026</td>
