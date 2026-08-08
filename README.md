@@ -1,5 +1,7 @@
 ## About me
-<p>I am a passionate smart contract security researcher, Rektoff Cohort 3 intern and CS undergraduate who is committed to mastering the art of blockchain security for delivering top-tier audits and enhancing the security of DeFi protocols.</p>
+<p>I am a passionate smart contract security researcher with over a year of experience, Rektoff Cohort 3 intern and CS undergraduate who is committed to mastering the art of blockchain security for delivering top-tier audits and enhancing the security of DeFi protocols.</p>
+
+<p>I actively compete on leading audit platforms like Sherlock and HackenProof, with proven success both solo and as a part of a team.</p>
 
 ## Contacts
 <a href="https://x.com/0xgo4ko"><strong>Twitter</strong></a>
@@ -25,10 +27,23 @@
   </li>
 </ul>
 
-<p>
-  <strong>Biggest achievement:</strong><br>
-  🥇 1st place in the Inverse Finance contest, achieving 100% coverage on a codebase previously audited by Sherlock. <a href="https://audits.sherlock.xyz/contests/1202/leaderboard">Leaderboard</a>
-</p>
+<div>
+  <p>
+    <strong>Biggest achievements:</strong>
+    <br>
+  </p>
+
+  <strong>Solo:</strong><br>
+  🥇 1st place in the Inverse Finance contest, achieving 100% coverage on a codebase previously audited by Sherlock. 
+  <a href="https://audits.sherlock.xyz/contests/1202/leaderboard">Leaderboard</a>
+  <br>
+
+  <strong>Team:</strong><br>
+  🏆 7th place in the 0xMarkets contest on Hackenproof.
+  <a href="https://hackenproof.com/audit-programs/0xmarkets-audit-contest?tab=hackers&page=2">Leaderboard</a>
+  <br>
+
+</div>
 
 <br>
 
@@ -62,7 +77,7 @@
     <tr>
       <td>06/2026</td>
       <td>Hackenproof</td>
-      <td><a href="https://dashboard.hackenproof.com/user/programs/0xmarkets-audit-contest">0xMarkets</a></td>
+      <td><a href="https://hackenproof.com/audit-programs/0xmarkets-audit-contest">0xMarkets</a></td>
       <td>Decentralized perpetual futures on FX, crypto, and commodities. Decentralized liquidity. Powered by Bittensor.</td>
       <td>6H, 7M, 3L</td>
       <td>7th 🎖️ | 196</td>
