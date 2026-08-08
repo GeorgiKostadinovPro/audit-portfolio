@@ -106,7 +106,7 @@
       <td>05/2026</td>
       <td>Sherlock</td>
       <td><a href="https://audits.sherlock.xyz/contests/1260">XRP Ledger</a></td>
-      <td>L1 Blockchain (Batch, Permission Delegation, MPT DEX, Confidential Transfer, Sponsored Fees and Reserves)</td>
+      <td>L1 Blockchain</td>
       <td>1M, 1L</td>
       <td>Top 100</td>
     </tr>
@@ -130,7 +130,7 @@
       <td>03/2026</td>
       <td>Immunefi</td>
       <td><a href="https://immunefi.com/audit-competition/audit-comp-folks-finance-staking-contracts/leaderboard/#top">Folks Finance: Staking Contracts</a></td>
-      <td>Fixed-APR Staking with linear unlock, migration support, and on-chain reward reservation guarantees</td>
+      <td>Staking Vault</td>
       <td>1M</td>
       <td>9th 🎖️</td>
     </tr>
