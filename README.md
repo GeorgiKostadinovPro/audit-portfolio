@@ -22,7 +22,7 @@
     <a href="https://hackenproof.com/hackers/Invalidatoors">Invalidatoors</a>
   </li>
   <li>
-    Sherlock portoflio (Team) =>
+    Sherlock portfolio (Team) =>
     <a href="https://audits.sherlock.xyz/watson/Invalidatoors">Invalidatoors</a>
   </li>
 </ul>
@@ -131,7 +131,7 @@
       <td>Immunefi</td>
       <td><a href="https://immunefi.com/audit-competition/audit-comp-folks-finance-staking-contracts/leaderboard/#top">Folks Finance: Staking Contracts</a></td>
       <td>Staking Vault</td>
-      <td>1M</td>
+      <td>1L</td>
       <td>9th 🎖️</td>
     </tr>
     <tr>
