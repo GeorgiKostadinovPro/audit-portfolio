@@ -18,12 +18,12 @@
     <a href="https://audits.sherlock.xyz/watson/0xAlipede">0xAlipede</a>
   </li>
   <li>
-    Hackenproof portfolio (Team Top 100 All-Time) =>
-    <a href="https://hackenproof.com/hackers/Invalidatoors">Invalidatoors</a>
-  </li>
-  <li>
     Sherlock portfolio (Team) =>
     <a href="https://audits.sherlock.xyz/watson/Invalidatoors">Invalidatoors</a>
+  </li>
+  <li>
+    Hackenproof portfolio (Team Top 100 All-Time) =>
+    <a href="https://hackenproof.com/hackers/Invalidatoors">Invalidatoors</a>
   </li>
 </ul>
 
@@ -40,6 +40,11 @@
   <br>
 
   <strong>Team:</strong><br>
+  🏆 2nd place in the Metric contest on Sherlock among 1480 participants.
+  <br>
+  <a href="https://audits.sherlock.xyz/contests/1279/leaderboard">Leaderboard</a>
+  <br>
+  
   🏆 7th place in the 0xMarkets contest on Hackenproof.
   <br>
   <a href="https://hackenproof.com/audit-programs/0xmarkets-audit-contest?tab=hackers&page=2">Leaderboard</a>
@@ -61,7 +66,7 @@
     <tr>
       <td>3</td>
       <td>16</td>
-      <td>16</td>
+      <td>19</td>
     </tr>
   </tbody>
 </table>
@@ -78,6 +83,14 @@
     </tr>
   </thead>
   <tbody>
+    <tr>
+      <td>07/2026</td>
+      <td>Sherlock</td>
+      <td><a href="https://audits.sherlock.xyz/contests/1279">Metric</a></td>
+      <td>Omnichain DEX / Active Liquidity AMM</td>
+      <td>3M</td>
+      <td>2nd 🥈 | 1480</td>
+    </tr>
     <tr>
       <td>06/2026</td>
       <td>Hackenproof</td>
