@@ -266,7 +266,7 @@
 
 <hr>
 
-### Codehawks <a href="https://support.cyfrin.io/en/collections/10771996-first-flights">First Flights</a>
+### Codehawks First Flights</a>
 
 <table>
   <thead>
@@ -351,5 +351,3 @@
     </tr>
   </tbody>
 </table>
-
-
