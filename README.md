@@ -1,7 +1,7 @@
 ## About me
 <p>I am a passionate smart contract security researcher with over a year of experience, a Rektoff Cohort 3 intern, and a CS undergraduate. My goal is simple - deliver top-tier audits and help secure the DeFi ecosystem.</p>
 
-<p>I actively compete on leading audit platforms like Sherlock and HackenProof, with proven success through my solo accounts <strong>0xAlipede</strong> and  <strong>go4ko</strong>, as well as with my team <strong>Invalidatoors</strong>.</p>
+<p>I actively compete on leading audit platforms like Sherlock, with proven success through my solo accounts <strong>0xAlipede</strong> and  <strong>go4ko</strong>, as well as with my team <strong>Invalidatoors</strong>.</p>
 
 ## Contacts
 <a href="https://x.com/0xgo4ko"><strong>Twitter</strong></a>
@@ -40,12 +40,12 @@
   <br>
 
   <strong>Team:</strong><br>
-  🏆 2nd place in the Metric contest on Sherlock among 1480 participants.
+  🥈 2nd place out of 1,480 participants in the Metric contest on Sherlock.
   <br>
   <a href="https://audits.sherlock.xyz/contests/1279/leaderboard">Leaderboard</a>
   <br>
   
-  🏆 7th place in the 0xMarkets contest on Hackenproof.
+  🏅 7th place in the 0xMarkets contest on Hackenproof.
   <br>
   <a href="https://hackenproof.com/audit-programs/0xmarkets-audit-contest?tab=hackers&page=2">Leaderboard</a>
   <br>
@@ -89,7 +89,7 @@
       <td><a href="https://audits.sherlock.xyz/contests/1279">Metric</a></td>
       <td>Omnichain DEX / Active Liquidity AMM</td>
       <td>3M</td>
-      <td>2nd 🥈 | 1480</td>
+      <td>2nd 🥈</td>
     </tr>
     <tr>
       <td>06/2026</td>
@@ -97,7 +97,7 @@
       <td><a href="https://hackenproof.com/audit-programs/0xmarkets-audit-contest">0xMarkets</a></td>
       <td>Decentralized perpetual futures on FX, crypto, and commodities. Powered by Bittensor.</td>
       <td>6H, 7M, 3L</td>
-      <td>7th 🎖️ | 196</td>
+      <td>7th 🎖️</td>
     </tr>
     <tr>
       <td>06/2026</td>
@@ -105,7 +105,7 @@
       <td><a href="https://hackenproof.com/audit-programs/tiprun-smart-contract-audit-contest">TipRun</a></td>
       <td>Prediction market exchange</td>
       <td>3C, 2H</td>
-      <td>24th 🎖️ | 127</td>
+      <td>24th 🎖️</td>
     </tr>
     <tr>
       <td>06/2026</td>
@@ -113,7 +113,7 @@
       <td><a href="https://audits.sherlock.xyz/contests/1259">DRE App - dreUSD</a></td>
       <td>Stablecoin, ERC-4626 vault, Layer Zero OFT adapters</td>
       <td>Points ranking</td>
-      <td>14th 🎖️ | 1080</td>
+      <td>14th 🎖️</td>
     </tr>
     <tr>
       <td>05/2026</td>
@@ -129,7 +129,7 @@
       <td><a href="https://cantina.xyz/code/e55ee7b9-6c99-42f8-8338-39f3dd134ef3/overview">Revert Finance - StableSwap Hooks</a></td>
       <td>Uniswap v4 Hook, Curve-style StableSwap AMM</td>
       <td>1H, 1M</td>
-      <td>52th 🎖️ | 773</td>
+      <td>52th 🎖️</td>
     </tr>
     <tr>
       <td>04/2026</td>
@@ -137,7 +137,7 @@
       <td><a href="https://audits.sherlock.xyz/contests/1263">Clear Macro by Superfluid</a></td>
       <td>Intent System, ERC-2771, ERC-712</td>
       <td>Points ranking</td>
-      <td>8th 🎖️ | 695</td>
+      <td>8th 🎖️</td>
     </tr>
     <tr>
       <td>03/2026</td>
@@ -153,15 +153,7 @@
       <td><a href="https://audits.sherlock.xyz/contests/1222">Open Cover Insured Vaults</a></td>
       <td>Insurance Vaults, ERC-7540, ERC-7575</td>
       <td>Points ranking</td>
-      <td>4th 🎖️ | 751</td>
-    </tr>
-    <tr>
-      <td>11/2025</td>
-      <td>Sherlock</td>
-      <td><a href="https://github.com/dualguard/2025-11-alignerz">AlignerZ</a></td>
-      <td>NFT, Token Launchpad</td>
-      <td>6H, 1L</td>
-      <td>Top 90</td>
+      <td>4th 🎖️</td>
     </tr>
     <tr>
       <td>11/2025</td>
@@ -169,7 +161,7 @@
       <td><a href="https://audits.sherlock.xyz/contests/1202">Inverse Finance</a></td>
       <td>Bad debt insurance of a lending protocol, Staking, ERC4626</td>
       <td>2M</td>
-      <td>1st 🥇 | 525</td>
+      <td>1st 🥇</td>
     </tr>
     <tr>
       <td>10/2025</td>
@@ -177,7 +169,7 @@
       <td><a href="https://audits.sherlock.xyz/contests/1176">Summer.fi</a></td>
       <td>Governance system (DAO token, staking & voting modules)</td>
       <td>2M</td>
-      <td>6th 🎖️ | 677</td>
+      <td>6th 🎖️</td>
     </tr>
     <tr>
       <td>02/2025</td>
@@ -185,7 +177,7 @@
       <td><a href="https://audits.sherlock.xyz/contests/498">Rova</a></td>
       <td>Onchain launchpad, Token sales</td>
       <td>1M</td>
-      <td>3rd 🥉 | 397</td>
+      <td>3rd 🥉</td>
     </tr>
     <tr>
       <td>01/2025</td>
@@ -193,7 +185,7 @@
       <td><a href="https://code4rena.com/audits/2025-01-liquid-ron">Liquid Ron</a></td>
       <td>Staking, ERC-4626</td>
       <td>1M</td>
-      <td>12th 🎖️ | 533</td>
+      <td>12th 🎖️</td>
     </tr>
   </tbody>
 </table>
