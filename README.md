@@ -92,6 +92,14 @@
       <td>2nd 🥈</td>
     </tr>
     <tr>
+      <td>07/2026</td>
+      <td>Sherlock</td>
+      <td><a href="https://audits.sherlock.xyz/contests/1234">Tare</a></td>
+      <td>Institutional Lending / RWA Credit / ERC-7540 Vaults</td>
+      <td>Points ranking</td>
+      <td>16th</td>
+    </tr>
+    <tr>
       <td>06/2026</td>
       <td>Hackenproof</td>
       <td><a href="https://hackenproof.com/audit-programs/0xmarkets-audit-contest">0xMarkets</a></td>
@@ -105,7 +113,7 @@
       <td><a href="https://hackenproof.com/audit-programs/tiprun-smart-contract-audit-contest">TipRun</a></td>
       <td>Prediction market exchange</td>
       <td>3C, 2H</td>
-      <td>24th 🎖️</td>
+      <td>24th</td>
     </tr>
     <tr>
       <td>06/2026</td>
@@ -113,7 +121,7 @@
       <td><a href="https://audits.sherlock.xyz/contests/1259">DRE App - dreUSD</a></td>
       <td>Stablecoin, ERC-4626 vault, Layer Zero OFT adapters</td>
       <td>Points ranking</td>
-      <td>14th 🎖️</td>
+      <td>14th</td>
     </tr>
     <tr>
       <td>05/2026</td>
@@ -129,7 +137,7 @@
       <td><a href="https://cantina.xyz/code/e55ee7b9-6c99-42f8-8338-39f3dd134ef3/overview">Revert Finance - StableSwap Hooks</a></td>
       <td>Uniswap v4 Hook, Curve-style StableSwap AMM</td>
       <td>1H, 1M</td>
-      <td>52th 🎖️</td>
+      <td>52th</td>
     </tr>
     <tr>
       <td>04/2026</td>
@@ -185,7 +193,7 @@
       <td><a href="https://code4rena.com/audits/2025-01-liquid-ron">Liquid Ron</a></td>
       <td>Staking, ERC-4626</td>
       <td>1M</td>
-      <td>12th 🎖️</td>
+      <td>12th</td>
     </tr>
   </tbody>
 </table>
