@@ -1,7 +1,7 @@
 ## About me
 <p>I am a passionate smart contract security researcher with over a year of experience, a Rektoff Cohort 3 intern, and a CS undergraduate. My goal is simple - deliver top-tier audits and help secure the DeFi ecosystem.</p>
 
-<p>I actively compete on leading audit platforms like Sherlock, with proven success through my solo accounts <strong>0xAlipede</strong> and  <strong>go4ko</strong>, as well as with my team <strong>Invalidatoors</strong>.</p>
+<p>I actively compete on leading audit platforms like Sherlock, with proven success through my solo account <strong>0xAlipede</strong>, as well as with my team <strong>Invalidatoors</strong>.</p>
 
 ## Contacts
 <a href="https://x.com/0xgo4ko"><strong>Twitter</strong></a>
